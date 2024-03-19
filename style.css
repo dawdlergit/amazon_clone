@@ -1,12 +1,14 @@
 * {
     margin: 0px;
-    font-style: arial;
+    font-family: arial;
     border: border-box;
 }
 .navbar{
     height: 60px;
     background-color: #0f1111;
     color: white;
+    display:flex;
+    
 }
 .nav-logo{
     height: 58px;
@@ -18,10 +20,27 @@
     height: 50px;
     width :100%;
 }
-.borde{
+.border{
     border: 1px solid transparent;
     
 }
-.borde :hover{
+.border :hover{
     border: 1px solid white;
+}
+/** address box**/
+.delivery_line{
+    color:#cccccc;
+    font-size: 12px;
+    margin-left: 15px;
+    margin-top:13px;
+}
+.delivery_place{
+    color:#ffffff;
+    font-size: 14px;
+    margin-left: 3px;
+    margin-top: 2px;
+}
+.add-icon{
+    display: flex;
+
 }
