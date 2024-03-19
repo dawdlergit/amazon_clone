@@ -9,12 +9,19 @@
     color: white;
 }
 .nav-logo{
-    height: 50px;
-    width: 113px;
+    height: 58px;
+    width: 111px;
 }
 .logo{
-    background-image: url(amazon-logo.jpeg);
+    background-image: url(amazon_logo.png);
     background-size: cover;
     height: 50px;
     width :100%;
+}
+.borde{
+    border: 1px solid transparent;
+    
+}
+.borde :hover{
+    border: 1px solid white;
 }
