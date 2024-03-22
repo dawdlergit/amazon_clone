@@ -8,10 +8,11 @@
     background-color: #0f1111;
     color: white;
     display:flex;
-    
+   
 }
+/** logo box **/
 .nav-logo{
-    height: 58px;
+    height: 50px;
     width: 111px;
 }
 .logo{
@@ -24,17 +25,17 @@
     border: 1px solid transparent;
     
 }
-.border :hover{
+.border:hover{
     border: 1px solid white;
 }
 /** address box**/
-.delivery_line{
+.delivery-line{
     color:#cccccc;
     font-size: 12px;
     margin-left: 15px;
     margin-top:13px;
 }
-.delivery_place{
+.delivery-place{
     color:#ffffff;
     font-size: 14px;
     margin-left: 3px;
@@ -42,5 +43,8 @@
 }
 .add-icon{
     display: flex;
-
+}
+.nav-address{
+    height: 50px;
+    width: 111px;
 }
