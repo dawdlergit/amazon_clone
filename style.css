@@ -220,5 +220,238 @@
     display: flex;
     align-items: center;
 }
-    
-   
+/** hero_Section box **/
+.hero-and-shopbox{
+    height: 730px;
+    background-image: url(hero_image.jpg);
+    background-size: cover;
+}
+.hero_section{
+    height: 290px;
+    display: flex;
+}
+.previous_slide{
+    height: 250px;
+    width: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.8rem;
+    }
+.next_slide{
+    height: 250px;
+    width: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.8rem;
+    position: relative;
+    left: 1290px;
+    }
+.hero_msg{
+    height: 40px;
+    width: 1130px;
+    background-color: #F5F6F6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    margin-top: 250px;
+}
+.hero_msg a{
+    color: #007185;
+}
+/**shopping box **/
+.shopping_item{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-evenly;
+    /* background-colo: rgb(207, 163, 187);
+} */
+.shopbox{
+    height: 420px;
+    width: 23.4%;
+    /* display: fle;
+    justify-content: space-evenl; */
+    background-color: white;
+    color :#0f1111;
+}
+/** Gaming Accessories **/
+.box-content{
+    margin-left: 20px;
+}
+.box-content h2{
+    margin-top: 25px;
+}
+.box-content p{
+    color:#0f1111;
+    font-size: 13px;
+    position: relative;
+    top: 100px;
+}
+.image-part1{
+    display: flex;
+}
+.ga-image1{
+    margin-top: 20px;
+    height:100px;
+    width: 155px;
+    background-image: url("ga image1.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+.ga-image2{
+    margin-top: 20px;
+    height:100px;
+    width: 155px;
+    background-image: url("ga image2.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.image-part2{
+    display: flex;
+}
+.ga-image3{
+    margin-top: 40px;
+    height:100px;
+    width: 155px;
+    background-image: url("ga image3.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.ga-image4{
+    margin-top: 40px;
+    height:100px;
+    width: 155px;
+    background-image: url("ga image4.jpg");
+    background-size: 170px 130px;
+}
+.see-more-for-four-img p{
+    color: #007185;
+    font-size: 15px;
+    margin-top: 70px;
+    margin-left: 20px;
+}
+/** PC deals **/
+.pc-image{
+    height: 300px;
+    width: 297px;
+    background-image: url("pc-image.jpg");
+    background-size: 330px 340px;
+    /* background-repeat: no-repea; */
+    margin-top: 20px;
+}
+}
+.box2-content{
+    margin-left: 20px;
+    margin-top: 25px;
+}
+.see-more-for-one-img p{
+    color: #007185;
+    font-size: 15px;
+    margin-top: 10px;
+}
+/** Refresh category **/
+/* .box-content{
+    margin-left: 20px;
+}
+.box-content h2{
+    margin-top: 25px;
+}
+.box-content p{
+    color:#0f1111;
+    font-size: 13px;
+    position: relative;
+    top: 100px;
+}
+.image-part1{
+    display: flex;
+} */
+.rys-image1{
+    margin-top: 20px;
+    height:100px;
+    width: 142.5px;
+    background-image: url("dining-img.jpg");
+    background-size: 155px 120px;
+}
+.rys-image2{
+    margin-top: 20px;
+    margin-left: 15px;
+    height:100px;
+    width: 142.5px;
+    background-image: url("home-img.jpg");
+    background-size: 155px 120px;
+}
+/* .image-part2{
+    display: flex;
+} */
+.rys-image3{
+    margin-top: 40px;
+    height:100px;
+    width: 142.5px;
+    background-image: url("kitchen-img.jpg");
+    background-size: 155px 100px;
+}
+.rys-image4{
+    margin-top: 40px;
+    margin-left: 15px;
+    height:100px;
+    width: 142.5px;
+    background-image: url("health-and-beauty-img.jpg");
+    background-size: 155px 100px;
+}
+/* AMAZON GADGET BOX */
+.ags-image1{
+    margin-top: 20px;
+    height:172px;
+    width: 300px;
+    background-image: url("Smartphones-img.jpg");
+    background-size: 350px 172px;
+}
+.ags-image2{
+    margin-top: 20px;
+    height:85px;
+    width: 95.33px;
+    background-image: url("tablets-img.jpg");
+    background-size: 120px 90px;
+}
+.ags-image3{
+    margin-top: 20px;
+    margin-left: 7px;
+    height:85px;
+    width: 95.33px;
+    background-image: url("laptops-img.jpg");
+    background-size: 115px 80px;
+}
+.ags-image4{
+    margin-top: 20px;
+    margin-left: 7px;
+    height:85px;
+    width: 95.33px;
+    background-image: url("tvs-img.jpg");
+    background-size: 115px 90px;
+}
+.see-more-for-ags{
+    color: #007185;
+    font-size: 15px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.box-content-ags{
+    margin-left: 20px;
+}
+.box-content-ags h2{
+    margin-top: 25px;
+}
+.box-content-ags1 p{
+    color:#0f1111;
+    font-size: 15px;
+    margin-top: 170px;
+}
+.box-content-ags2 p{
+    color:#0f1111;
+    font-size: 15px;
+    margin-top: 85px;
+}
+
