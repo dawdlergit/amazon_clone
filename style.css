@@ -266,8 +266,8 @@
     display: flex;
     margin-top: 20px;
     justify-content: space-evenly;
-    /* background-colo: rgb(207, 163, 187);
-} */
+    /* background-colo: rgb(207, 163, 187); */
+}
 .shopbox{
     height: 420px;
     width: 23.4%;
@@ -341,7 +341,6 @@
     background-size: 330px 340px;
     /* background-repeat: no-repea; */
     margin-top: 20px;
-}
 }
 .box2-content{
     margin-left: 20px;
@@ -454,4 +453,169 @@
     font-size: 15px;
     margin-top: 85px;
 }
+/* ANOTHER SHOPPING PANEL */
+.another-shopping-panel{
+    display: flex;
+    padding-top: 20px;
+    justify-content: space-evenly;
+    background-color: rgb(207, 163, 187); 
+}
+/* MUSIC & AUDIO BOX */
+.music-and-audio-image1{
+    margin-top: 20px;
+    height:100px;
+    width: 142.5px;
+    background-image: url("headphones-img.jpg");
+    background-size: 155px 120px;
+}
+.music-and-audio-image2{
+    margin-top: 20px;
+    margin-left: 15px;
+    height:100px;
+    width: 142.5px;
+    background-image: url("guitars.jpg");
+    background-size: 155px 120px;
+}
+.music-and-audio-image3{
+    margin-top: 20px;
+    height:100px;
+    width: 142.5px;
+    background-image: url("keyboards-img.jpg");
+    background-size: 155px 120px;
+}
+.music-and-audio-image4{
+    margin-top: 20px;
+    margin-left: 15px;
+    height:100px;
+    width: 142.5px;
+    background-image: url("microphones-img.jpg");
+    background-size: 155px 120px;
+}
+/* BASKET WITH JOY */
+.basket-with-joy-image{
+    height: 250px;
+    width: 297px;
+    background-image: url("basket\ of\ joy-img.jpg");
+    background-size: 330px 290px;
+    margin-top: 20px;
+}
+/* FASHION BOX */
+.fashion-image1{
+    margin-top: 20px;
+    height:100px;
+    width: 142.5px;
+    background-image: url("jeans-img.jpg");
+    background-size: 155px 120px;
+}
+.fashion-image2{
+    margin-top: 20px;
+    margin-left: 15px;
+    height:100px;
+    width: 142.5px;
+    background-image: url("tops-img.jpg");
+    background-size: 155px 120px;
+}
+.fashion-image3{
+    margin-top: 20px;
+    height:100px;
+    width: 142.5px;
+    background-image: url("dresses-img.jpg");
+    background-size: 155px 120px;
+}
+.fashion-image4{
+    margin-top: 20px;
+    margin-left: 15px;
+    height:100px;
+    width: 142.5px;
+    background-image: url("shoes-img.jpg");
+    background-size: 155px 120px;
+}
+/* FASHIONOO TRENDS */
+.fashion-trends-image1{
+    margin-top: 20px;
+    height:100px;
+    width: 142.5px;
+    background-image: url("dresses-trends-img.jpg");
+    background-size: 155px 120px;
+}
+.fashion-trends-image2{
+    margin-top: 20px;
+    margin-left: 15px;
+    height:100px;
+    width: 142.5px;
+    background-image: url("knits-img.jpg");
+    background-size: 155px 120px;
+}
+.fashion-trends-image3{
+    margin-top: 20px;
+    height:100px;
+    width: 142.5px;
+    background-image: url("jackets-img.jpg");
+    background-size: 155px 120px;
+}
+.fashion-trends-image4{
+    margin-top: 20px;
+    margin-left: 15px;
+    height:100px;
+    width: 142.5px;
+    background-image: url("jewelry-img.jpg");
+    background-size: 155px 120px;
+}
+ /* GAMING MERCHANDISE  */
+.smartwatch-image{
+    height: 250px;
+    width: 297px;
+    background-image: url("smartwatch-img.jpg");
+    background-size: 330px 290px;
+    margin-top: 20px;
+}
+/* GAMING MERCHANDISE */
+.gamingdise-image1{
+    margin-top: 20px;
+    height:100px;
+    width: 142.5px;
+    background-image: url("apparel-img.jpg");
+    background-size: 155px 120px;
+}
+.gamingdise-image2{
+    margin-top: 20px;
+    margin-left: 15px;
+    height:100px;
+    width: 142.5px;
+    background-image: url("hats-img.jpg");
+    background-size: 155px 120px;
+}
+.gamingdise-image3{
+    margin-top: 20px;
+    height:100px;
+    width: 142.5px;
+    background-image: url("action-img.jpg");
+    background-size: 155px 120px;
+}
+.gamingdise-image4{
+    margin-top: 20px;
+    margin-left: 15px;
+    height:100px;
+    width: 142.5px;
+    background-image: url("mugs-img.jpg");
+    background-size: 155px 120px;
+}
+/* GAMER PARADISE */
+.gaming-image{
+    height: 250px;
+    width: 297px;
+    background-image: url("gaming-img.jpg");
+    background-size: 330px 290px;
+    margin-top: 20px;
+}
+/* PERSONAL COMPUTER */
+.laptop-image{
+    height: 278px;
+    width: 297px;
+    background-image: url("laptops-img.jpg");
+    background-size: 297px 278px;
+    margin-top: 20px;
+}
+
+
 
