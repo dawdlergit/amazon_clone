@@ -22,7 +22,7 @@
     width: 15px;
 }
 .logo{
-    background-image: url(amazon_logo.png);
+    background-image: url("images/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width :100%;
@@ -96,7 +96,7 @@
 }
 /** language box **/
 .lan-logo{
-    background-image: url(USA.png);
+    background-image: url("images/USA.png");
     background-size: cover;
     width: 21.6px;
     height: 16.2px;
@@ -223,7 +223,7 @@
 /** hero_Section box **/
 .hero-and-shopbox{
     height: 730px;
-    background-image: url(hero_image.jpg);
+    background-image: url("images/hero_image.jpg");
     background-size: cover;
 }
 .hero_section{
@@ -296,7 +296,7 @@
     margin-top: 20px;
     height:100px;
     width: 155px;
-    background-image: url("ga image1.jpg");
+    background-image: url("images/ga\ image1.jpg");
     background-size: contain;
     background-repeat: no-repeat;
 
@@ -305,7 +305,7 @@
     margin-top: 20px;
     height:100px;
     width: 155px;
-    background-image: url("ga image2.jpg");
+    background-image: url("images/ga\ image2.jpg");
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -316,7 +316,7 @@
     margin-top: 40px;
     height:100px;
     width: 155px;
-    background-image: url("ga image3.jpg");
+    background-image: url("images/ga image3.jpg");
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -324,7 +324,7 @@
     margin-top: 40px;
     height:100px;
     width: 155px;
-    background-image: url("ga image4.jpg");
+    background-image: url("images/ga\ image4.jpg");
     background-size: 170px 130px;
 }
 .see-more-for-four-img p{
@@ -337,7 +337,7 @@
 .pc-image{
     height: 300px;
     width: 297px;
-    background-image: url("pc-image.jpg");
+    background-image: url("images/pc-image.jpg");
     background-size: 330px 340px;
     /* background-repeat: no-repea; */
     margin-top: 20px;
@@ -371,7 +371,7 @@
     margin-top: 20px;
     height:100px;
     width: 142.5px;
-    background-image: url("dining-img.jpg");
+    background-image: url("images/dining-img.jpg");
     background-size: 155px 120px;
 }
 .rys-image2{
@@ -379,14 +379,14 @@
     margin-left: 15px;
     height:100px;
     width: 142.5px;
-    background-image: url("home-img.jpg");
+    background-image: url("images/home-img.jpg");
     background-size: 155px 120px;
 }
 .rys-image3{
     margin-top: 40px;
     height:100px;
     width: 142.5px;
-    background-image: url("kitchen-img.jpg");
+    background-image: url("images/kitchen-img.jpg");
     background-size: 155px 100px;
 }
 .rys-image4{
@@ -394,7 +394,7 @@
     margin-left: 15px;
     height:100px;
     width: 142.5px;
-    background-image: url("health-and-beauty-img.jpg");
+    background-image: url("images/health-and-beauty-img.jpg");
     background-size: 155px 100px;
 }
 /* AMAZON GADGET BOX */
@@ -402,14 +402,14 @@
     margin-top: 20px;
     height:172px;
     width: 300px;
-    background-image: url("Smartphones-img.jpg");
+    background-image: url("images/Smartphones-img.jpg");
     background-size: 350px 172px;
 }
 .ags-image2{
     margin-top: 20px;
     height:85px;
     width: 95.33px;
-    background-image: url("tablets-img.jpg");
+    background-image: url("images/tablets-img.jpg");
     background-size: 120px 90px;
 }
 .ags-image3{
@@ -417,7 +417,7 @@
     margin-left: 7px;
     height:85px;
     width: 95.33px;
-    background-image: url("laptops-img.jpg");
+    background-image: url("images/laptops-img.jpg");
     background-size: 115px 80px;
 }
 .ags-image4{
@@ -425,7 +425,7 @@
     margin-left: 7px;
     height:85px;
     width: 95.33px;
-    background-image: url("tvs-img.jpg");
+    background-image: url("images/tvs-img.jpg");
     background-size: 115px 90px;
 }
 .see-more-for-ags{
@@ -462,7 +462,7 @@
     margin-top: 20px;
     height:100px;
     width: 142.5px;
-    background-image: url("headphones-img.jpg");
+    background-image: url("images/headphones-img.jpg");
     background-size: 155px 120px;
 }
 .music-and-audio-image2{
@@ -470,14 +470,14 @@
     margin-left: 15px;
     height:100px;
     width: 142.5px;
-    background-image: url("guitars.jpg");
+    background-image: url("images/guitars.jpg");
     background-size: 155px 120px;
 }
 .music-and-audio-image3{
     margin-top: 20px;
     height:100px;
     width: 142.5px;
-    background-image: url("keyboards-img.jpg");
+    background-image: url("images/keyboards-img.jpg");
     background-size: 155px 120px;
 }
 .music-and-audio-image4{
@@ -485,14 +485,14 @@
     margin-left: 15px;
     height:100px;
     width: 142.5px;
-    background-image: url("microphones-img.jpg");
+    background-image: url("images/microphones-img.jpg");
     background-size: 155px 120px;
 }
 /* BASKET WITH JOY */
 .basket-with-joy-image{
     height: 250px;
     width: 297px;
-    background-image: url("basket\ of\ joy-img.jpg");
+    background-image: url("images/basket\ of\ joy-img.jpg");
     background-size: 330px 290px;
     margin-top: 20px;
 }
@@ -501,7 +501,7 @@
     margin-top: 20px;
     height:100px;
     width: 142.5px;
-    background-image: url("jeans-img.jpg");
+    background-image: url("images/jeans-img.jpg");
     background-size: 155px 120px;
 }
 .fashion-image2{
@@ -509,14 +509,14 @@
     margin-left: 15px;
     height:100px;
     width: 142.5px;
-    background-image: url("tops-img.jpg");
+    background-image: url("images/tops-img.jpg");
     background-size: 155px 120px;
 }
 .fashion-image3{
     margin-top: 20px;
     height:100px;
     width: 142.5px;
-    background-image: url("dresses-img.jpg");
+    background-image: url("images/dresses-img.jpg");
     background-size: 155px 120px;
 }
 .fashion-image4{
@@ -524,7 +524,7 @@
     margin-left: 15px;
     height:100px;
     width: 142.5px;
-    background-image: url("shoes-img.jpg");
+    background-image: url("images/shoes-img.jpg");
     background-size: 155px 120px;
 }
 /* FASHIONOO TRENDS */
@@ -532,7 +532,7 @@
     margin-top: 20px;
     height:100px;
     width: 142.5px;
-    background-image: url("dresses-trends-img.jpg");
+    background-image: url("images/dresses-trends-img.jpg");
     background-size: 155px 120px;
 }
 .fashion-trends-image2{
@@ -540,14 +540,14 @@
     margin-left: 15px;
     height:100px;
     width: 142.5px;
-    background-image: url("knits-img.jpg");
+    background-image: url("images/knits-img.jpg");
     background-size: 155px 120px;
 }
 .fashion-trends-image3{
     margin-top: 20px;
     height:100px;
     width: 142.5px;
-    background-image: url("jackets-img.jpg");
+    background-image: url("images/jackets-img.jpg");
     background-size: 155px 120px;
 }
 .fashion-trends-image4{
@@ -555,14 +555,14 @@
     margin-left: 15px;
     height:100px;
     width: 142.5px;
-    background-image: url("jewelry-img.jpg");
+    background-image: url("images/jewelry-img.jpg");
     background-size: 155px 120px;
 }
  /* GAMING MERCHANDISE  */
 .smartwatch-image{
     height: 250px;
     width: 297px;
-    background-image: url("smartwatch-img.jpg");
+    background-image: url("images/smartwatch-img.jpg");
     background-size: 330px 290px;
     margin-top: 20px;
 }
@@ -571,7 +571,7 @@
     margin-top: 20px;
     height:100px;
     width: 142.5px;
-    background-image: url("apparel-img.jpg");
+    background-image: url("images/apparel-img.jpg");
     background-size: 155px 120px;
 }
 .gamingdise-image2{
@@ -579,14 +579,14 @@
     margin-left: 15px;
     height:100px;
     width: 142.5px;
-    background-image: url("hats-img.jpg");
+    background-image: url("images/hats-img.jpg");
     background-size: 155px 120px;
 }
 .gamingdise-image3{
     margin-top: 20px;
     height:100px;
     width: 142.5px;
-    background-image: url("action-img.jpg");
+    background-image: url("images/action-img.jpg");
     background-size: 155px 120px;
 }
 .gamingdise-image4{
@@ -594,14 +594,14 @@
     margin-left: 15px;
     height:100px;
     width: 142.5px;
-    background-image: url("mugs-img.jpg");
+    background-image: url("images/mugs-img.jpg");
     background-size: 155px 120px;
 }
 /* GAMER PARADISE */
 .gaming-image{
     height: 250px;
     width: 297px;
-    background-image: url("gaming-img.jpg");
+    background-image: url("images/gaming-img.jpg");
     background-size: 330px 290px;
     margin-top: 20px;
 }
@@ -609,7 +609,7 @@
 .laptop-image{
     height: 278px;
     width: 297px;
-    background-image: url("laptops-img.jpg");
+    background-image: url("images/laptops-img.jpg");
     background-size: 297px 278px;
     margin-top: 20px;
 }
@@ -655,7 +655,7 @@ ul p{
     justify-content: center;
 }
 .logo{
-    background-image: url(amazon_logo.png);
+    background-image: url("images/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width :100px;
@@ -703,7 +703,7 @@ ul p{
     margin-left: 8px;
 }
 .USA-logo{
-    background-image: url(USA.png);
+    background-image: url("images/USA.png");
         background-size: cover;
         width: 21.6px;
         height: 16.2px;
